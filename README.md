@@ -1,5 +1,9 @@
-# <center>**user = pd.DataFrame(data="./littlerobinson")**</center>
-## `user.desribe() -> { insights: [analyze, visualize, predict], skills: { programming, web, data_science, data_engineering } }`
+## <center>**user = pd.DataFrame(data="./littlerobinson")**</center>
+
+```python
+user.desribe()
+```
+
 ---
 
 Welcome to my portfolio! I’m a developer who has transitioned into the exciting realms of data science and engineering. After years of crafting code, I decided to explore the captivating world of data, where I extract meaningful insights and stories that can drive impactful decisions.
