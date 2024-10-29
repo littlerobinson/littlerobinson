@@ -2,7 +2,7 @@
 
 ```python
 user = pd.DataFrame(data="./littlerobinson")
-user.desribe()
+user.describe()
 ```
 
 ---
