@@ -1,7 +1,35 @@
-## littlerobinson = new User()
-
+# <center>**user = pd.DataFrame(data="./littlerobinson")**</center>
+## `user.desribe() -> { insights: [analyze, visualize, predict], skills: { programming, web, data_science, data_engineering } }`
 ---
 
+Welcome to my portfolio! I’m a developer who has transitioned into the exciting realms of data science and engineering. After years of crafting code, I decided to explore the captivating world of data, where I extract meaningful insights and stories that can drive impactful decisions.
+
+## Skills
+
+## Data Engineering
+- **Data Pipeline**: Apache Airflow, Airbyte...
+- **Databases**: RDBMS (PostgreSQL, MySQL), NoSQL (MongoDB)...
+- **Cloud Solutions**: AWS (S3, Redshift), Google Cloud (BigQuery), Azure...
+- **Containerization & Orchestration**: Docker, Kubernetes, Helm...
+- **Data Warehousing**: Snowflake, Redshift...
+- **Machine Learning Tools**: PySpark, Ray, MLflow, OpenAI Gym...
+- **Data Governance**: Ensuring data quality, compliance, and security across the pipeline.
+
+
+
+### Data Science
+- **Data Analysis**: Python, SQL, Pandas, Numpy, PySPark...
+- **Machine/Deep Learning**: scikit learn, Tensorflow...
+- **Data Visualization**:Plotly, Seaborn, Streamlit...
+
+### Software Developer
+- **API**: PHP, Python, Go
+- **Frontend**: Javascript, Vue, React
+- **Mobile**: Flutter
+
+Thanks for checking out my portfolio! I'm always open to new challenges and collaborations, so feel free to reach out. I look forward to exploring how we can work together on exciting projects!
+
+See you soon!
 
 <!--
 **littlerobinson/littlerobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
