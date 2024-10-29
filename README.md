@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">littlerobinson>_</h2>
+<h2 style="text-align: center;">Hello git 👽️ !>_</h2>
 
 ```python
 user = pd.DataFrame(data="./littlerobinson")
@@ -7,11 +7,11 @@ user.describe()
 
 ---
 
-Welcome to my portfolio! I’m a developer who has transitioned into the exciting realms of data science and engineering. After years of crafting code, I decided to explore the captivating world of data, where I extract meaningful insights and stories that can drive impactful decisions.
+Welcome to my portfolio 🎉! I’m a developer who has transitioned into the exciting realms of data science and engineering. After years of crafting code, I decided to explore the captivating world of data, where I extract meaningful insights and stories that can drive impactful decisions.
 
 ## Skills
 
-## Data Engineering
+## 🚀 Data Engineering
 - **Data Pipeline**: Apache Airflow, Airbyte...
 - **Databases**: RDBMS (PostgreSQL, MySQL), NoSQL (MongoDB)...
 - **Cloud Solutions**: AWS (S3, Redshift), Google Cloud (BigQuery), Azure...
@@ -22,12 +22,12 @@ Welcome to my portfolio! I’m a developer who has transitioned into the excitin
 
 
 
-### Data Science
+### ⚗️ Data Science
 - **Data Analysis**: Python, SQL, Pandas, Numpy, PySPark...
 - **Machine/Deep Learning**: scikit learn, Tensorflow...
 - **Data Visualization**:Plotly, Seaborn, Streamlit...
 
-### Software Developer
+### ⚡️ Software Developer
 - **API**: PHP, Python, Go
 - **Frontend**: Javascript, Vue, React
 - **Mobile**: Flutter
