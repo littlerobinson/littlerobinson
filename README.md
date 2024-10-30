@@ -7,7 +7,9 @@ user.describe()
 
 ---
 
-Welcome to my portfolio 🎉! I’m a developer who has transitioned into the exciting realms of data science and engineering. After years of crafting code, I decided to explore the captivating world of data, where I extract meaningful insights and stories that can drive impactful decisions.
+Developer who transitioned into the exciting fields of data science and engineering.
+After years of crafting code, I decided to explore the captivating world of data, where I extract meaningful insights and stories that can lead to impactful decisions.
+Welcome 🎉 !
 
 ## Skills
 
